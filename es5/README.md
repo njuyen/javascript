@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-  - [Conventions](#conventions)
+  - [Style](#style)
     * [Line Length](#line-length)
     * [Blocks](#blocks)
     * [Comments](#comments)
@@ -30,12 +30,13 @@
     * [Events](#events)
     * [Modules](#modules)
     * [jQuery](#jquery)
+  - [References](#references)
     * [ECMAScript 5 Compatibility](#ecmascript-5-compatibility)
     * [Performance](#performance)
     * [Resources](#resources)
-    * [License](#license)
+  - [License](#license)
 
-## Conventions
+## Styles
 
 ### Line length
   - Avoid line longer than 80 characters.
@@ -1535,13 +1536,15 @@
 
 **[⬆ back to top](#table-of-contents)**
 
+## References
+
 ### ECMAScript 5 Compatibility
 
   - Refer to [Kangax](https://twitter.com/kangax/)'s ES5 [compatibility table](http://kangax.github.com/es5-compat-table/).
 
 **[⬆ back to top](#table-of-contents)**
 
-## Performance
+### Performance
 
   - [On Layout & Web Performance](http://kellegous.com/j/2013/01/26/layout-performance/)
   - [String vs Array Concat](http://jsperf.com/string-vs-array-concat/2)
@@ -1554,7 +1557,7 @@
 
 **[⬆ back to top](#table-of-contents)**
 
-## Resources
+### Resources
 
 **Read This**
 
