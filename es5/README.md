@@ -2,8 +2,6 @@
 
 *A mostly reasonable approach to JavaScript*
 
-**Credit: The guidance is derived from [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) and consist of a couple modifications under KMS needs.**
-
 ## Table of Contents
 
   - [Style](#style)
@@ -1635,7 +1633,7 @@
 
 (The MIT License)
 
-Copyright (c) 2015 KMS Technology Inc.
+Copyright (c) 2015 Airbnb
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

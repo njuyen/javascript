@@ -1,8 +1,6 @@
-# KMS JavaScript Style Guide( ECMAScript 2015 - ES6) {
+# KMS JavaScript Style Guide( ECMAScript 2015 - formerly ES6) {
 
 *A mostly reasonable approach to JavaScript*
-
-**Credit: This style guide is derived from [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) and consist of a couple modifications under KMS needs.**
 
 ## Table of Contents
 
