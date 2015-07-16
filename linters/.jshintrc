@@ -1,4 +1,6 @@
 {
+  // See full options of JSHint at http://jshint.com/docs/options/
+  
   /*
    * ENVIRONMENTS
    * =================
@@ -12,6 +14,15 @@
 
   // Define globals exposed by Node.js.
   "node": true,
+  
+  // Define globals exposed by Browserify
+  "browserify": true,
+  
+  // Define globals exposed by Jasmine
+  "jasmine": true,
+  
+  // Define globals exposed by Web Workers
+  "worker": true,
 
   // Allow ES6.
   "esnext": true,
@@ -51,7 +62,13 @@
 
   // Warn when variables are defined but never used.
   "unused": true,
-
+  
+  // Max cyclomatic complexity
+  "maxcomplexity": 15,
+  
+  //Prohibit the use of constructor functions for side-effects.
+  "nonew": true,
+  
   /*
    * RELAXING OPTIONS
    * =================
