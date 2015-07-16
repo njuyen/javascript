@@ -2,10 +2,7 @@
     "plugins": ["jsdoc"],
     "preset": "airbnb",
     "fileExtensions": [".js"],
-
-    "requireParenthesesAroundIIFE": true,
     "excludeFiles": [],
-
     "jsDoc": {
         "checkAnnotations": "closurecompiler",
         "checkParamNames": true,
