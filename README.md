@@ -4,7 +4,10 @@
 
 In KMS Technology, we suggest using the Airbnb's JavaScript coding styles for our JavaScript coding.
 
-Content
+## Getting Starts
+
+
+
 - [ECMAScript 5 Coding Guide](es5/README.md)
 - [ECMAScript 2015 Coding Guide](es6/README.md)
 - [React.js Coding Guide](react/)
